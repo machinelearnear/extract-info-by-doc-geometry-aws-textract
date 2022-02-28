@@ -1,4 +1,4 @@
-# Extract Information Better Using Geometry and Amazon Textract
+# Extract Information By Using Document Geometry + Amazon Textract
 
 This is a repo showing a quick start to taking advantage of the geometric context found in a document to make tagging easier and more accurate with Amazon Textract. We are going to be using SageMaker StudioLab as our dev environment and the [Textractor](https://github.com/aws-samples/amazon-textract-textractor) Python library by Martin Schade.
 
